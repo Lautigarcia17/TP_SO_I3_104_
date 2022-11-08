@@ -1,0 +1,21 @@
+Lautaro Garcia
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::c7ae:eaad:ca77:fb26  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:04:6b:dd  txqueuelen 1000  (Ethernet)
+        RX packets 33007  bytes 36107999 (36.1 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 12283  bytes 2247613 (2.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1225  bytes 125837 (125.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1225  bytes 125837 (125.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+20:14
+
