@@ -21,3 +21,15 @@ f-
     git push 
 	-github user
 	-github token 
+g- 
+   git pull
+   sudo apt install net-tools 
+   git checkout Garcia
+   git branch 
+   git nano beta.txt
+   git ifconfig >> beta.txt 
+   git add .
+   git config -m “ALFA 8”
+   git push 
+       -github user
+       -github token
