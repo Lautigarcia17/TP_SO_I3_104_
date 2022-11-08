@@ -6,3 +6,18 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
   -git checkout main
   -git branch
   -git merge Maggiaiuolo (nueva branch)
+
+d- La rama de Gamma tiene los mismos datos que el main menos el archivo beta.txt
+mientras la rama del beta tiene los mismos archivos que el main. Ninguno de los 2 tiene el archivo con las respuestas
+e- Ninguno
+f- 
+    sudo apt install net-tools 
+    git checkout Garcia
+    git branch 
+    git nano beta.txt
+    git ifconfig >> beta.txt 
+    git add .
+    git config -m “gamma 7”
+    git push 
+	-github user
+	-github token 
